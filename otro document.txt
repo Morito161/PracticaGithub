@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 priemr modificacion
 segunda modificacion
 priemr modificacion
 segunda modificacion
+=======
+priemr modificacion
+segunda modificacion
+>>>>>>> d9042de4771c71466ecdd30c3611942d7e39d9fb

@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 esta es la primera linea
 esta es la segunda linea
+=======
+esta es la primera linea
+esta es la segunda linea
+>>>>>>> d9042de4771c71466ecdd30c3611942d7e39d9fb
 =======
 esta es la primera linea
 esta es la segunda linea
